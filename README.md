@@ -19,7 +19,7 @@ B-Llama3-o is a multimodal Language Model Adaptation (LLaMA) developed by B-Bot.
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-repository/b-llama3o.git
+    git clone https://github.com/beyondExp/B-Llama3-o.git
     cd b-llama3o
     ```
 
