@@ -92,6 +92,9 @@ B-Llama3-o is a multimodal Language Model Adaptation (LLaMA) developed by B-Bot.
 
 ### Data Format
 
+[![Click to Watch the Video](https://i9.ytimg.com/vi/DaYp_by0rqA/mq1.jpg?sqp=CJTK07IG-oaymwEmCMACELQB8quKqQMa8AEB-AHUBoAC4AOKAgwIABABGCcgGih_MA8=&rs=AOn4CLD4tN0FzyEZIA2GTvfNg-RHEMsZLA)](https://www.youtube.com/watch?v=DaYp_by0rqA)
+
+
 Your dataset should be in JSON Lines (JSONL) format and structured to support multimodal inputs and outputs. Each entry should include text, audio, and video inputs, and optionally include reasoning and the expected output format. Here is an example structure for the JSONL file:
 
 ### Example 1: Only Text
