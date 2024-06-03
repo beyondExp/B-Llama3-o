@@ -73,7 +73,7 @@ if __name__ == '__main__':
 
     logging.info("Building data module...")
     data_module = create_dataset(tokenizer=model_stack['tokenizer'],
-                                 image_processor=model_stack['processor'].image_processor,
+                                                                                                                           image_processor=model_stack['processor'].image_processor,
                                  is_multimodal=True,
                                  data_path=args.data_path,
                                  image_folder="../data/images",
